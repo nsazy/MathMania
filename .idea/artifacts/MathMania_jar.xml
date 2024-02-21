@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MathMania:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MathMania_jar</output-path>
+    <root id="archive" name="MathMania.jar">
+      <element id="module-output" name="MathMania" />
+    </root>
+  </artifact>
+</component>
